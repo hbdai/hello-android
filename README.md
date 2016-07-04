@@ -1,2 +1,3 @@
 # hello-android
+It is not able to run...
 This is my test project for using Git.
